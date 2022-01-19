@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👂 Chat with me!
-![chat_svg](https://github.com/beetrootfarmer/beetrootfarmer/blob/master/chat.svg)
+![chat_svg](https://github.com/beetrootfarmer/beetrootfarmer/blob/main/chat.svg)
 
 
 ### 🌳 CV and Portfolio
