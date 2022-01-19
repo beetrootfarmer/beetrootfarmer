@@ -252,9 +252,10 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="585" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I am from 
-somewhere in this <tspan class="emoji">🌎</tspan> marvel.</text>
+    <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
+     <text x="15" y="27">I am from 
+Korea. Same as you </text>
+    <text x="15" y="50">somewhere in this <tspan class="emoji">🌎</tspan> marvel.</text>
   </g>
 
   <!-- typing 3 -->
