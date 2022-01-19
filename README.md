@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### 🌳 CV and Portfolio
-<a href="https://boom-spring-dc1.notion.site/First-Step-as-a-Developer-cfcf6b3d75784da3a1c918e8cb42fedd" target="_blank"><img src="https://media.istockphoto.com/vectors/hand-icon-over-magnifier-to-find-word-portfolio-in-search-banner-on-vector-id1190192736?k=20&m=1190192736&s=170667a&w=0&h=9q5U8z5W37aqz6tFSi-62sPHxFIw-ZnodFJZDYVJ2zo="/></a>
+<a href="https://boom-spring-dc1.notion.site/First-Step-as-a-Developer-cfcf6b3d75784da3a1c918e8cb42fedd" target="_blank"><img src="https://media.istockphoto.com/vectors/hand-icon-over-magnifier-to-find-word-portfolio-in-search-banner-on-vector-id1190192736?k=20&m=1190192736&s=170667a&w=0&h=9q5U8z5W37aqz6tFSi-62sPHxFIw-ZnodFJZDYVJ2zo=" style="height:100px;"/></a>
 
 ### 📓 Study Note
 <a href="https://boom-spring-dc1.notion.site/5971bc56453246cdb3b727ee6bb59a49" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white&"/></a>
