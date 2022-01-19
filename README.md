@@ -70,5 +70,5 @@ Here are some ideas to get you started:
 - email: pos04118@gmail.com
 - instagram : @myezis / @myezi2
 
-[![beetrootfarmer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=secretj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/beetrootfarmer)
-![secretj's github stats](https://github-readme-stats.vercel.app/api?username=secretj&show_icons=true)
+<!-- [![beetrootfarmer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=secretj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/beetrootfarmer)
+![secretj's github stats](https://github-readme-stats.vercel.app/api?username=secretj&show_icons=true) -->
