@@ -228,7 +228,7 @@
 
   <!-- Hi, I'm yea Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="250" height="42" rx="18.0355" />
+    <rect width="320" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm beetrootfarmer,HYEJI KIM.</text>
   </g>
 
@@ -252,10 +252,9 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="585" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I am from 
-somewhere</text>
-    <text x="15" y="50"> in this <tspan class="emoji">🌎</tspan> marvel.</text>
+somewhere in this <tspan class="emoji">🌎</tspan> marvel.</text>
   </g>
 
   <!-- typing 3 -->
@@ -330,7 +329,7 @@ somewhere</text>
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="285" height="66.13" rx="18.0355" class="bubble" />
+    <rect width="299" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thank you for visiting my Githob!</text>
     <text x="15" y="47">Have a nice Day! <tspan class="emoji">👋</tspan></text>
   </g>
