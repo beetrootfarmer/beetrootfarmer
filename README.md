@@ -13,9 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👂 Chat with me!
-![chat_svg](https://github.com/beetrootfarmer/beetrootfarmer/blob/main/chat.svg)
+<!-- ## 👂 Chat with me!
+![chat_svg](https://github.com/beetrootfarmer/beetrootfarmer/blob/main/chat.svg) -->
 
+<!-- 자기소개 시작 -->
+<div>
+<br>
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Hye+Ji+˙ᵕ˙+&nbsp;)
+</div>
+ 
+* * *
+<!-- 자기소개 끝 -->
 
 ### 🌳 CV and Portfolio
 <a href="https://boom-spring-dc1.notion.site/First-Step-as-a-Developer-cfcf6b3d75784da3a1c918e8cb42fedd" target="_blank"><img src="https://media.istockphoto.com/vectors/hand-icon-over-magnifier-to-find-word-portfolio-in-search-banner-on-vector-id1190192736?k=20&m=1190192736&s=170667a&w=0&h=9q5U8z5W37aqz6tFSi-62sPHxFIw-ZnodFJZDYVJ2zo=" style="height:50px;"/></a>
