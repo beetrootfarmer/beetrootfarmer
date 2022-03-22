@@ -21,19 +21,18 @@
  <!-- <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white&"/></a> -->
 </div>
 
-<div align="center">
+
  
  ### 🧑‍🎓 Education
  * 비트캠프 수료 (2021.07 ~ 2021.12)
  * 가천대학교 회화조소과 (2016.03 ~ 2021.02)
  * 가천대학교 패션디자인과 (2016.03 ~ 2021.02)
  * 계원예술고등학교 미술과 (2014.03 ~ 2016.02)
-
  ### 💫 Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos04118)](https://solved.ac/pos04118)
 
 
-</div>
+
 <br>
 <br>
 
