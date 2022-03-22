@@ -13,7 +13,7 @@
 <!-- 자기소개 끝 -->
 
 
-> <a href="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49" > <h2>🌳 <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a> 
+> <a href="https://hyejisfarm.notion.site/d1d5fc1a166a462fa67d02979924a3e4" > <h2>🌳 <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a> 
 > <a href="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49" > <h2>📓 <img src="https://img.shields.io/badge/Study Note-181717?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a>
  
 <hr>
