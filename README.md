@@ -39,13 +39,14 @@ Here are some ideas to get you started:
 * 가천대학교 패션디자인과 (2016.03 ~ 2021.02)
 * 계원예술고등학교 미술과 (2014.03 ~ 2016.02)
 
-### 🐈‍⬛
+### 🌟 Algorithm
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos04118)](https://solved.ac/pos04118)
+
+
+### 🐈‍⬛ Github Stats
 ![beetrootfarmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=beetrootfarmer&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beetrootfarmer&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🌟
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos04118)](https://solved.ac/pos04118)
 
 
 ### 🔭 Languages & Frameworks
