@@ -12,19 +12,22 @@
 * * *
 <!-- 자기소개 끝 -->
 <div align=left>
-### <a href="https://boom-spring-dc1.notion.site/First-Step-as-a-Developer-cfcf6b3d75784da3a1c918e8cb42fedd" target="_blank"> 🌳 Portfolio </a>
-<!-- <img src="https://media.istockphoto.com/vectors/hand-icon-over-magnifier-to-find-word-portfolio-in-search-banner-on-vector-id1190192736?k=20&m=1190192736&s=170667a&w=0&h=9q5U8z5W37aqz6tFSi-62sPHxFIw-ZnodFJZDYVJ2zo=" style="height:50px;"/> --> 
+ 
+ ### <a href="https://boom-spring-dc1.notion.site/First-Step-as-a-Developer-cfcf6b3d75784da3a1c918e8cb42fedd" target="_blank"> 🌳 Portfolio </a>
+ <!-- <img src="https://media.istockphoto.com/vectors/hand-icon-over-magnifier-to-find-word-portfolio-in-search-banner-on-vector-id1190192736?k=20&m=1190192736&s=170667a&w=0&h=9q5U8z5W37aqz6tFSi-62sPHxFIw-ZnodFJZDYVJ2zo=" style="height:50px;"/> --> 
 
 
-### <a href="https://boom-spring-dc1.notion.site/5971bc56453246cdb3b727ee6bb59a49" target="_blank"> 📓 Study Note </a>
-<!-- <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white&"/></a> -->
+ ### <a href="https://boom-spring-dc1.notion.site/5971bc56453246cdb3b727ee6bb59a49" target="_blank"> 📓 Study Note </a>
+ <!-- <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white&"/></a> -->
 </div>
 <div align=right>
-### 🧑‍🎓 Education
-* 비트캠프 수료 (2021.07 ~ 2021.12)
-* 가천대학교 회화조소과 (2016.03 ~ 2021.02)
-* 가천대학교 패션디자인과 (2016.03 ~ 2021.02)
-* 계원예술고등학교 미술과 (2014.03 ~ 2016.02)
+ 
+ ### 🧑‍🎓 Education
+ * 비트캠프 수료 (2021.07 ~ 2021.12)
+ * 가천대학교 회화조소과 (2016.03 ~ 2021.02)
+ * 가천대학교 패션디자인과 (2016.03 ~ 2021.02)
+ * 계원예술고등학교 미술과 (2014.03 ~ 2016.02)
+ 
 </div>
 
 ### 💫 Algorithm
