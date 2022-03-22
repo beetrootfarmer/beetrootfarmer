@@ -22,15 +22,17 @@
 </div>
 
 
- 
- ### 🧑‍🎓 Education
+### 💫 Algorithm
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos04118)](https://solved.ac/pos04118)
+
+### 🧑‍🎓 Education
  * 비트캠프 수료 (2021.07 ~ 2021.12)
  * 가천대학교 회화조소과 (2016.03 ~ 2021.02)
  * 가천대학교 패션디자인과 (2016.03 ~ 2021.02)
  * 계원예술고등학교 미술과 (2014.03 ~ 2016.02)
- ### 💫 Algorithm
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos04118)](https://solved.ac/pos04118)
 
+| <h2>💫 Algorithm</h2> | <h2>### 🧑‍🎓 Education</h2> |
+| [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos04118)](https://solved.ac/pos04118) | * 비트캠프 수료 (2021.07 ~ 2021.12) <br> * 가천대학교 회화조소과 (2016.03 ~ 2021.02) <br> * 가천대학교 패션디자인과 (2016.03 ~ 2021.02) <br> * 계원예술고등학교 미술과 (2014.03 ~ 2016.02) |
 
 
 <br>
