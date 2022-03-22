@@ -1,7 +1,7 @@
 
 <!-- ## 👂 Chat with me!
 ![chat_svg](https://github.com/beetrootfarmer/beetrootfarmer/blob/main/chat.svg) -->
-
+<div align=center>
 <!-- 자기소개 시작 -->
 <div>
 <br>
@@ -11,7 +11,7 @@
  
 * * *
 <!-- 자기소개 끝 -->
-<div align="center">
+
  
  ### <a href="https://boom-spring-dc1.notion.site/First-Step-as-a-Developer-cfcf6b3d75784da3a1c918e8cb42fedd" target="_blank"> 🌳 Portfolio </a>
  <!-- <img src="https://media.istockphoto.com/vectors/hand-icon-over-magnifier-to-find-word-portfolio-in-search-banner-on-vector-id1190192736?k=20&m=1190192736&s=170667a&w=0&h=9q5U8z5W37aqz6tFSi-62sPHxFIw-ZnodFJZDYVJ2zo=" style="height:50px;"/> --> 
@@ -19,21 +19,19 @@
 
  ### <a href="https://boom-spring-dc1.notion.site/5971bc56453246cdb3b727ee6bb59a49" target="_blank"> 📓 Study Note </a>
  <!-- <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white&"/></a> -->
-</div>
 
+<hr>
+
+### 🧑‍🎓 Education
+ 비트캠프 수료 (2021.07 ~ 2021.12)
+ 가천대학교 회화조소과 (2016.03 ~ 2021.02)
+ 가천대학교 패션디자인과 (2016.03 ~ 2021.02)
+ 계원예술고등학교 미술과 (2014.03 ~ 2016.02)
+
+<br>
 
 ### 💫 Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos04118)](https://solved.ac/pos04118)
-
-### 🧑‍🎓 Education
- * 비트캠프 수료 (2021.07 ~ 2021.12)
- * 가천대학교 회화조소과 (2016.03 ~ 2021.02)
- * 가천대학교 패션디자인과 (2016.03 ~ 2021.02)
- * 계원예술고등학교 미술과 (2014.03 ~ 2016.02)
-
-| <h2>💫 Algorithm</h2> | <h2>### 🧑‍🎓 Education</h2> |
-| [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos04118)](https://solved.ac/pos04118) | * 비트캠프 수료 (2021.07 ~ 2021.12) <br> * 가천대학교 회화조소과 (2016.03 ~ 2021.02) <br> * 가천대학교 패션디자인과 (2016.03 ~ 2021.02) <br> * 계원예술고등학교 미술과 (2014.03 ~ 2016.02) |
-
 
 <br>
 <br>
@@ -41,8 +39,9 @@
 
 ### 🐈‍⬛ Github Stats
 ![beetrootfarmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=beetrootfarmer&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beetrootfarmer&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beetrootfarmer&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 
 ### 🔭 Languages & Frameworks
 <div align="center">
@@ -66,6 +65,7 @@
 
 </div>
 
+<br>
 
 ### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/beetrootfarmer/beetrootfarmer/blob/output/github-contribution-grid-snake.svg)
@@ -74,3 +74,5 @@
 
 ### 📫 How to reach me: ...
 - email: pos04118@gmail.com
+
+</div>
