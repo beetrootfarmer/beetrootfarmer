@@ -23,32 +23,7 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Hye+Ji+˙ᵕ˙+&nbsp;)
 </div>
  
-<div class="pull-left">
-<h2> 🌳 CV and Portfolio</h2>
-<hr>
-<a href="https://boom-spring-dc1.notion.site/First-Step-as-a-Developer-cfcf6b3d75784da3a1c918e8cb42fedd" target="_blank"><img src="https://media.istockphoto.com/vectors/hand-icon-over-magnifier-to-find-word-portfolio-in-search-banner-on-vector-id1190192736?k=20&m=1190192736&s=170667a&w=0&h=9q5U8z5W37aqz6tFSi-62sPHxFIw-ZnodFJZDYVJ2zo=" style="height:50px;"/></a>
 
-### 📓 Study Note
-<a href="https://boom-spring-dc1.notion.site/5971bc56453246cdb3b727ee6bb59a49" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white&"/></a>
-
-</div>
-<div class="pull-right">
-<h2> 📓 Education</h2>
-<hr>
-<p>
-* 비트캠프 수료 (2021.07 ~ 2021.12)
-* 가천대학교 회화조소과 (2016.03 ~ 2021.02)
-* 가천대학교 패션디자인과 (2016.03 ~ 2021.02)
-* 계원예술고등학교 미술과 (2014.03 ~ 2016.02)
-</p>
-</div>
-
-<br>
-<hr>
- 
- 
- 
- 
 * * *
 <!-- 자기소개 끝 -->
 ### 🌳 CV and Portfolio
