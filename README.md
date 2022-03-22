@@ -1,7 +1,7 @@
 
 <!-- ## 👂 Chat with me!
 ![chat_svg](https://github.com/beetrootfarmer/beetrootfarmer/blob/main/chat.svg) -->
-<div align=center>
+<div align=left>
 <!-- 자기소개 시작 -->
 <div>
 <br>
@@ -10,20 +10,13 @@
 </div>
 <!-- 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4!+%EA%B9%80%ED%98%9C%EC%A7%80%EC%9E%85%EB%8B%88%EB%8B%A4!;Hello+World!+I'm+Hye+Ji+%CB%99%E1%B5%95%CB%99)](https://git.io/typing-svg) -->
-* * *
 <!-- 자기소개 끝 -->
 
- 
- ### <a href="https://boom-spring-dc1.notion.site/First-Step-as-a-Developer-cfcf6b3d75784da3a1c918e8cb42fedd" target="_blank"> 🌳 Portfolio </a>
- ##### CV를 포함한 포트폴리오 링크입니다!
- <!-- <img src="https://hyejisfarm.notion.site/d1d5fc1a166a462fa67d02979924a3e4" style="height:50px;"/> --> 
 
-<br>
+  <a href="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49" > <h2>🌳 <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a>
  
- ### <a href="https://boom-spring-dc1.notion.site/5971bc56453246cdb3b727ee6bb59a49" target="_blank"> 📓 Study Note </a>
- ##### 비트농부의 개발공부 기록입니다!
- <!-- <img src="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49"/></a> -->
-
+ <a href="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49" > <h2>📓 <img src="https://img.shields.io/badge/Study Note-181717?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a>
+ 
 <hr>
 
 ### 🧑‍🎓 Education
