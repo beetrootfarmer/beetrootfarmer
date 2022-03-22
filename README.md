@@ -13,17 +13,16 @@
 <!-- 자기소개 끝 -->
 
 
-  <a href="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49" > <h2>🌳 <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a>
- 
- <a href="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49" > <h2>📓 <img src="https://img.shields.io/badge/Study Note-181717?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a>
+> <a href="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49" > <h2>🌳 <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a> 
+> <a href="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49" > <h2>📓 <img src="https://img.shields.io/badge/Study Note-181717?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a>
  
 <hr>
 
 ### 🧑‍🎓 Education
- 비트캠프 수료 (2021.07 ~ 2021.12) <br>
- 가천대학교 회화조소과 (2016.03 ~ 2021.02) <br>
- 가천대학교 패션디자인과 (2016.03 ~ 2021.02) <br>
- 계원예술고등학교 미술과 (2014.03 ~ 2016.02) <br>
+ > 비트캠프 수료 (2021.07 ~ 2021.12) <br>
+ > 가천대학교 회화조소과 (2016.03 ~ 2021.02) <br>
+ > 가천대학교 패션디자인과 (2016.03 ~ 2021.02) <br>
+ > 계원예술고등학교 미술과 (2014.03 ~ 2016.02) <br>
 
 <br>
 
@@ -35,8 +34,12 @@
 
 
 ### 🐈‍⬛ Github Stats
-![beetrootfarmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=beetrootfarmer&show_icons=true&theme=buefy)
+<div align=left>
+ 
+ ![beetrootfarmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=beetrootfarmer&show_icons=true&theme=buefy)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beetrootfarmer&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </div>
 
 <br>
 
@@ -66,9 +69,11 @@
 
 
 ### 📫 How to reach me: ...
-- email: pos04118@gmail.com
+<a href="pos04118@gmail.com" > <img src="https://img.shields.io/badge/gmail-pink?style=for-the-badge&logo=gmail&logoColor=white"/>  </a> 
 
+<br>
+<!-- 
 ##### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/beetrootfarmer/beetrootfarmer/blob/output/github-contribution-grid-snake.svg)
-
+ -->
 </div>
