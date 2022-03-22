@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/Ajax-red?style=for-the-badge&logo=Ajax&logoColor=white">
 <img src="https://img.shields.io/badge/Jquery-pink?style=for-the-badge&logo=Jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Thymeleaf-green?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-green?style=for-the-badge&logo=JWT&logoColor=white">
 <img src="https://img.shields.io/badge/Servlet-darkblue?style=for-the-badge&logo=Servlet&logoColor=white">
 </div>
 
