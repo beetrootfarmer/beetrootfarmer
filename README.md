@@ -16,13 +16,13 @@
  
  ### <a href="https://boom-spring-dc1.notion.site/First-Step-as-a-Developer-cfcf6b3d75784da3a1c918e8cb42fedd" target="_blank"> 🌳 Portfolio </a>
  ##### CV를 포함한 포트폴리오 링크입니다!
- <!-- <img src="https://media.istockphoto.com/vectors/hand-icon-over-magnifier-to-find-word-portfolio-in-search-banner-on-vector-id1190192736?k=20&m=1190192736&s=170667a&w=0&h=9q5U8z5W37aqz6tFSi-62sPHxFIw-ZnodFJZDYVJ2zo=" style="height:50px;"/> --> 
+ <!-- <img src="https://hyejisfarm.notion.site/d1d5fc1a166a462fa67d02979924a3e4" style="height:50px;"/> --> 
 
 <br>
  
  ### <a href="https://boom-spring-dc1.notion.site/5971bc56453246cdb3b727ee6bb59a49" target="_blank"> 📓 Study Note </a>
  ##### 비트농부의 개발공부 기록입니다!
- <!-- <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white&"/></a> -->
+ <!-- <img src="https://hyejisfarm.notion.site/5971bc56453246cdb3b727ee6bb59a49"/></a> -->
 
 <hr>
 
